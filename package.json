@@ -8,7 +8,10 @@
         "javascript",
         "colorpicker",
         "color picker",
-        "dojo color picker"
+        "dojo color picker",
+        "dojo colorpicker",
+        "dijit color picker",
+        "dijit colorpicker"
     ],
     "author": "GibboK",
     "license": "MIT",

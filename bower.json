@@ -1,0 +1,31 @@
+{
+    "name": "dojo-colorPicker",
+    "version": "1.0.0",
+    "description": "A Photoshop-like Dojo ColorPicker widget.",
+    "main": "ColorPicker.js",
+    "moduleType": [ "amd" ],
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "keywords": [
+        "dojo",
+        "javascript",
+        "colorpicker",
+        "color picker",
+        "dojo color picker"
+    ],
+    "author": "GibboK",
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "devDependencies": {
+        "dojo": "^1.12.1",
+        "dijit": "^1.12.1"
+    }
+}
